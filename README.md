@@ -9,9 +9,7 @@ A curated collection of the best resources for frontend development and web desi
 - Browse categories for resources you need.
 - Each link is labeled for quick identification.
 - Suggestions are included to expand your toolkit.
-
 ---
-
 ## Table of Contents
 
 - [Logos](#logos)
